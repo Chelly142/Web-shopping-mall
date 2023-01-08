@@ -1,0 +1,11 @@
+.serv_list .container .item_list .card{
+  border : 1px solid #eee;
+  border-radius : 5px;
+  height : 350px;
+  width : 250px;
+  padding : 5px;
+  margin-bottom : 10px;
+  float : left;
+  margin-top : 20px;
+  margin-left : 100px;
+}

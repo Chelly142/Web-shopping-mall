@@ -51,6 +51,7 @@ html, body {
 }
 .layout-main{
   display: block;
+  position: relative;
   background-color: #891414;
   height: 100%;
 }
