@@ -13,3 +13,6 @@ html, css 를 복습하고 메인페이지를 디자인했습니다.
 2023/01/09
 할당된 웹디자인을 모두 완성했습니다.
 다음은 자바스크립트로 기능 구현 계획을 잡아야합니다.
+![KakaoTalk_20230108_175529557](https://user-images.githubusercontent.com/67005998/211250879-95e0dced-723e-43a4-bce6-5b74b2991df4.jpg)
+![KakaoTalk_20230108_175529557](https://user-images.githubusercontent.com/67005998/211250931-d35827c5-6fdf-47dc-b7d8-929312faaee6.jpg)
+
